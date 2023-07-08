@@ -5,6 +5,8 @@
     <a href="https://discord.gg/xb5ecHMDkN" title="discord">discord</a>
     &#x2022;
     <a href="https://twitter.com/curioustale_app" title="twitter">twitter</a>
+    &#x2022;
+    <a href="https://medium.com/@curioustale.app" title="medium">medium</a>
   </samp>
 </div>
 
