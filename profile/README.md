@@ -1,12 +1,17 @@
+
+![Group 1](https://github.com/curioustale-app/.github/assets/35269424/4a8ead37-ddb8-48f3-98a5-96eba5de4942)
+
 <div align='center'> 
-  <h1><samp>Curious Tale</samp></h1>
-  <h3><samp>What is it?</samp></h3>
+<!--   <h1><samp>Curious Tale</samp></h1>
+  <h3><samp>What is it?</samp></h3> -->
   <samp>
     <a href="https://discord.gg/xb5ecHMDkN" title="discord">discord</a>
     &#x2022;
     <a href="https://twitter.com/curioustale_app" title="twitter">twitter</a>
     &#x2022;
     <a href="https://medium.com/@curioustale.app" title="medium">medium</a>
+    &#x2022;
+    <a href="https://github.com/curioustale-app/.github/blob/main/PRIVACY_POLICY.md" title="privacy policy">privacy policy</a>
   </samp>
 </div>
 
