@@ -5,6 +5,8 @@
 <!--   <h1><samp>Curious Tale</samp></h1>
   <h3><samp>What is it?</samp></h3> -->
   <samp>
+    <a href="https://play.google.com/store/apps/details?id=app.curioustale.curioustale" title="play store">play store</a>
+    &#x2022;
     <a href="https://discord.gg/xb5ecHMDkN" title="discord">discord</a>
     &#x2022;
     <a href="https://twitter.com/curioustale_app" title="twitter">twitter</a>
